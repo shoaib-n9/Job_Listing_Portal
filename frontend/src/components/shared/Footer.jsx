@@ -9,7 +9,7 @@ const Footer = () => {
             <h2 className="text-xl font-bold">
               Job<span className="text-[#0258f8]">Pulse</span>
             </h2>
-            <p className="text-sm">© 2024 Your Company. All rights reserved.</p>
+            <p className="text-sm">© 2024 Job Pulse. All rights reserved.</p>
           </div>
 
           <div className="flex space-x-4 mt-4 md:mt-0">
